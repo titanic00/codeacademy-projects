@@ -1,0 +1,32 @@
+* {
+    background-color: black;
+    text-align: center;
+    font-family: Verdana;
+}
+
+.download-link,
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+.top-header {
+    font-size: 50px;
+    color: white;
+}
+
+.header {
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+.text {
+    font-size: 21px;
+    color: gray;
+}
+
+footer {
+    text-align: right;
+    color: gray;
+}
