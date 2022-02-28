@@ -1,0 +1,56 @@
+html {
+    font-family: Helvetica;
+    font-size: 22px;
+    color: seashell;
+    background-color: black;
+    opacity: 0.9;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+
+.container .head {
+    display: flex;
+    justify-content: space-between;
+    height: 69px;
+    border-bottom: 1px solid seashell;
+    opacity: 0.9;
+}
+
+.container .head .navbar {
+    position: fixed;
+    right: 150px;
+}
+
+.container .head .navbar p {
+    text-decoration: underline;
+    display: inline-block;
+}
+
+.container .head .img-header #logo {
+    height: 50px;
+    padding-left: 10px;
+}
+
+
+/*.header .logo-img,
+.header .navbar {
+    display: inline-block;
+    
+}
+
+.header .logo-img {
+    float: left;
+}
+
+.header .navbar .nav {
+    display: inline;
+}
+
+.header .navbar {
+    
+    position: fixed;
+    right: 150px;
+}
+*/
